@@ -1,0 +1,4 @@
+rootProject.name = 'GB2260'
+
+
+enableFeaturePreview('GRADLE_METADATA')

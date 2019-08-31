@@ -1,0 +1,3 @@
+[submodule "src/jvmMain/resources/GB2260"]
+	path = src/jvmMain/resources/GB2260
+	url = https://github.com/cn/GB2260.git
